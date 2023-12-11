@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210044432465",
+    "project_id": "zams-f2e15",
+    "storage_bucket": "zams-f2e15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210044432465:android:9c6af5127a6ba4671bc870",
+        "android_client_info": {
+          "package_name": "com.example.flutter_login_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP4STmU7vUhnM_eTS-WD7MRlBSYH-trAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
